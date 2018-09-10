@@ -1,12 +1,14 @@
-# Shiraz Hazrat's Personal Homepage and Portfolio
+# Shiraz Hazrat's Personal Portfolio and Homepage
 Please visit <a href="http://www.shirazhazrat.com" target="_blank">http://www.shirazhazrat.com</a>.
 
 # Technicals
 Hosted on Amazon Web Services S3.
 
 Domain Provider and DNS Settings: AWS Route 53
-Contact form: Sends content to an AWS Lambda function designed to email me the information.
-Lambda function: (To be added soon)
+
+Contact form: Sends content to an AWS Lambda function programmed to email me the information.
+
+[Lambda function for contact form](contact-form/lambda_function.py)
 
 
 ## License
